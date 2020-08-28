@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#bb1f1f</color>
+    <color name="colorStroke">#4D070707</color>
+    <color name="colorText">#070707</color>
+    <color name="colorGithubUserImagePlaceholder">#c4c4c4</color>
+</resources>
